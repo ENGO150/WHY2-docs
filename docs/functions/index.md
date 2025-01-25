@@ -22,14 +22,20 @@ You can find documentation for every *public* function of WHY2 below.
 
 ## Core
 
-### Crypto.h
+### Crypto
 
-| Function                                                | Description                                      |
-| ------------------------------------------------------- | ------------------------------------------------ |
+| Function                                             | Description                                      |
+| ---------------------------------------------------- | ------------------------------------------------ |
 | [`why2_sum_segment`](./core/crypto/why2_sum_segment) | Calculate SUM++ for input; Used for padding seed |
 | [`why2_random`](./core/crypto/why2_random)           | Write crypto-secure random number into dest      |
 | [`why2_seed_random`](./core/crypto/why2_seed_random) | Seed why2_seeded_random output                   |
 | [`why2_seeded_random`](./core/crypto/why2_seeded_random) | GENERATE RANDOM NUMBER BASED ON SEED PASSED IN why2_seed_random |
+
+### Decrypter
+
+| Function                                                  | Description                                       |
+| --------------------------------------------------------- | ------------------------------------------------- |
+| [`why2_decrypt_text`](./core/decrypter/why2_decrypt_text) | Text from Will be decrypter with key and returned |
 
 ## Logger
 
