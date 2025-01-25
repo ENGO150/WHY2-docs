@@ -29,7 +29,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 |                     |                                                          |
 | ------------------  | -------------------------------------------------------- |
-| **Return type**     | [`why2_bool`](../../../../types/core/flags/why2_bool.md) |
+| **Return type**     | [`why2_bool`](../../../../types/core/flags/why2_bool) |
 | **Header comment**  | `WRITE CRYPTO-SECURE RANDOM NUMBER INTO dest`            |
 | **Added in commit** | [`f95608f52a0a82b3a8c005c7f8dad0b9cf93202a`](https://github.com/ENGO150/WHY2/commit/f95608f52a0a82b3a8c005c7f8dad0b9cf93202a) |
 

@@ -34,7 +34,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Description
 
-Function takes `input` parameter and divides it into segments of [`WHY2_SUM_SEGMENT_SIZE`](../../../../macros/core/crypto/why2_sum_segment_size.md). Each segment does some xoring, math using [`WHY2_SUM_BASE_PRIME`](../../../../macros/core/crypto/why2_sum_base_prime.md) and modulates each segment with [`WHY2_SUM_MOD_PRIME`](../../../../macros/core/crypto/why2_sum_mod_prime.md). The result is then added together and returned.
+Function takes `input` parameter and divides it into segments of [`WHY2_SUM_SEGMENT_SIZE`](../../../../macros/core/crypto/why2_sum_segment_size). Each segment does some xoring, math using [`WHY2_SUM_BASE_PRIME`](../../../../macros/core/crypto/why2_sum_base_prime) and modulates each segment with [`WHY2_SUM_MOD_PRIME`](../../../../macros/core/crypto/why2_sum_mod_prime). The result is then added together and returned.
 
 Output value grows rapidly with increasing `input` length, but unless you are using enormously large keys, nothing should overflow. Function was tested with lengths up to 4096 chars and output was only about 0,0000014 % of the `ULL` range.
 
