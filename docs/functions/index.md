@@ -77,6 +77,7 @@ You can find documentation for every *public* function of WHY2 below.
 | Function                                              | Description                         |
 | ----------------------------------------------------- | ----------------------------------- |
 | [`why2_list_push`](./core/llist/why2_list_push)       | Push element to list back           |
+| [`why2_list_push_at`](./core/llist/why2_list_push_at) | Push element to index index of list |
 
 ## Logger
 
