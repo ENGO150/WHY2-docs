@@ -35,7 +35,13 @@ You can find documentation for every *public* function of WHY2 below.
 
 | Function                                                  | Description                                       |
 | --------------------------------------------------------- | ------------------------------------------------- |
-| [`why2_decrypt_text`](./core/decrypter/why2_decrypt_text) | Text from Will be decrypter with key and returned |
+| [`why2_decrypt_text`](./core/decrypter/why2_decrypt_text) | Text from will be decrypted with key and returned |
+
+### Encrypter
+
+| Function                                                  | Description                                       |
+| --------------------------------------------------------- | ------------------------------------------------- |
+| [`why2_encrypt_text`](./core/encrypter/why2_encrypt_text) | Text from will be encrypted with key and returned |
 
 ## Logger
 
