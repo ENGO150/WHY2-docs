@@ -99,6 +99,7 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_opendir`](./core/memory/why2_opendir)           | *This functions doesn't have any description.*             |
 | [`why2_deallocate`](./core/memory/why2_deallocate)     | *This functions doesn't have any description.*             |
 | [`why2_clean_memory`](./core/memory/why2_clean_memory) | identifier specifies which nodes to deallocate \| this is basically garbage collector \| pass why2_get_default_memory_identifier() for deallocating everything |
+| [`why2_allocated`](./core/memory/why2_allocated)       | Checks if pointer was allocated using why2-mem             |
 
 ## Logger
 
