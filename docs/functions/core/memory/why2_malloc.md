@@ -34,4 +34,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Description
 
-Function passes `size` into [`malloc`](https://sourceware.org/glibc/wiki/MallocInternals) function and returns the output value. The value is also pushed to [`linked-list`](../../../../types/core/llist/why2_list_t) for garbage collector.
+Function passes `size` into [`malloc`](https://linux.die.net/man/3/malloc) function and returns the output value. The value is also pushed to [`linked-list`](../../../../types/core/llist/why2_list_t) for garbage collector.
