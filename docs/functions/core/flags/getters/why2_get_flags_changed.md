@@ -1,3 +1,7 @@
+---
+title: why2_get_flags_changed function
+---
+
 <!--
 This is part of WHY2
 Copyright (C) 2022 Václav Šmejkal

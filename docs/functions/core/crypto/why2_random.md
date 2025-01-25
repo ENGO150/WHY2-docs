@@ -1,3 +1,7 @@
+---
+title: why2_random function
+---
+
 <!--
 This is part of WHY2
 Copyright (C) 2022 Václav Šmejkal

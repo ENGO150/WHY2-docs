@@ -1,3 +1,7 @@
+---
+title: why2_calloc function
+---
+
 <!--
 This is part of WHY2
 Copyright (C) 2022 Václav Šmejkal

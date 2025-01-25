@@ -1,3 +1,7 @@
+---
+title: why2_get_default_flags function
+---
+
 <!--
 This is part of WHY2
 Copyright (C) 2022 Václav Šmejkal

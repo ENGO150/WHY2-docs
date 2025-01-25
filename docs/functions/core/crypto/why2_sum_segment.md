@@ -1,3 +1,7 @@
+---
+title: why2_sum_segment function
+---
+
 <!--
 This is part of WHY2
 Copyright (C) 2022 Václav Šmejkal
