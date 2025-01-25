@@ -43,6 +43,14 @@ You can find documentation for every *public* function of WHY2 below.
 | --------------------------------------------------------- | ------------------------------------------------- |
 | [`why2_encrypt_text`](./core/encrypter/why2_encrypt_text) | Text from will be encrypted with key and returned |
 
+### Flags
+
+#### Getters
+
+| Function                                                                      | Description                             |
+| ----------------------------------------------------------------------------- | --------------------------------------- |
+| [`why2_get_encryption_separator`](./core/flags/getters/why2_get_encryption_separator) | *This functions doesn't have any description.* |
+
 ## Logger
 
 ## Chat
