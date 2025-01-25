@@ -27,6 +27,7 @@ You can find documentation for every *public* function of WHY2 below.
 | Function                                                | Description                                      |
 | ------------------------------------------------------- | ------------------------------------------------ |
 | [`why2_sum_segment`](./core/crypto/why2_sum_segment.md) | Calculate SUM++ for input; Used for padding seed |
+| [`why2_random`](./core/crypto/why2_random.md)           | Write crypto-secure random number into dest      |
 
 ## Logger
 
