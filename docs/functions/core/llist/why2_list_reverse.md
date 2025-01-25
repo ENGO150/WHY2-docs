@@ -35,4 +35,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Description
 
-Reverses node order in `list`. `size` is size of nodes in `list`, because of the reallocations.
+Reverses node order in linked-list (`list`). `size` is size of nodes in `list`, because of the reallocations.

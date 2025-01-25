@@ -34,4 +34,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Description
 
-Calculates size of `list` (how many nodes are present) and returns it.
+Calculates size of linked-list (`list`) (how many nodes are present) and returns it.

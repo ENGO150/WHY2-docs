@@ -35,4 +35,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Description
 
-Finds node containing `value` and returns pointer to it. If no match is found, `NULL` is returned.
+Finds node in linked-list (`list`) containing `value` and returns pointer to it. If no match is found, `NULL` is returned.
