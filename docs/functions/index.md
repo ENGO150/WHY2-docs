@@ -74,12 +74,13 @@ You can find documentation for every *public* function of WHY2 below.
 
 ### Linked-list
 
-| Function                                                  | Description                         |
-| --------------------------------------------------------- | ----------------------------------- |
-| [`why2_list_push`](./core/llist/why2_list_push)           | Push element to list back           |
-| [`why2_list_push_at`](./core/llist/why2_list_push_at)     | Push element to index index of list |
-| [`why2_list_remove`](./core/llist/why2_list_remove)       | Remove element                      |
-| [`why2_list_remove_at`](./core/llist/why2_list_remove_at) | Remove element with index index     |
+| Function                                                      | Description                         |
+| ------------------------------------------------------------- | ----------------------------------- |
+| [`why2_list_push`](./core/llist/why2_list_push)               | Push element to list back           |
+| [`why2_list_push_at`](./core/llist/why2_list_push_at)         | Push element to index index of list |
+| [`why2_list_remove`](./core/llist/why2_list_remove)           | Remove element                      |
+| [`why2_list_remove_at`](./core/llist/why2_list_remove_at)     | Remove element with index index     |
+| [`why2_list_remove_back`](./core/llist/why2_list_remove_back) | Remove last element                 |
 
 ## Logger
 
