@@ -85,6 +85,12 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_list_get_size`](./core/llist/why2_list_get_size)       | Get size                            |
 | [`why2_list_reverse`](./core/llist/why2_list_reverse)         | Reverses list                       |
 
+### Memory
+
+| Function                                   | Description                                    |
+| ------------------------------------------ | ---------------------------------------------- |
+| [`why2_malloc`](./core/memory/why2_malloc) | *This functions doesn't have any description.* |
+
 ## Logger
 
 ## Chat
