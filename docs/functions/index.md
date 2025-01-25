@@ -50,6 +50,7 @@ You can find documentation for every *public* function of WHY2 below.
 | Function                                                                      | Description                             |
 | ----------------------------------------------------------------------------- | --------------------------------------- |
 | [`why2_get_encryption_separator`](./core/flags/getters/why2_get_encryption_separator) | *This functions doesn't have any description.* |
+| [`why2_get_key_length`](./core/flags/getters/why2_get_key_length) | *This functions doesn't have any description.*      |
 
 ## Logger
 
