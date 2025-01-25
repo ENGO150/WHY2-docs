@@ -60,6 +60,12 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_get_memory_identifier`](./core/flags/getters/why2_get_memory_identifier) | Returns string used in linked list (in memory.c) for identifying nodes when running garbage collector |
 | [`why2_get_default_memory_identifier`](./core/flags/getters/why2_get_default_memory_identifier) | *This functions doesn't have any description.* |
 
+#### Setters
+
+| Function                                                              | Description                                       |
+| --------------------------------------------------------------------- | ------------------------------------------------- |
+| [`why2_set_encryption_separator`](./core/flags/setters/why2_set_encryption_separator) | *This functions doesn't have any description.* |
+
 ## Logger
 
 ## Chat
