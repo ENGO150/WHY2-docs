@@ -87,11 +87,12 @@ You can find documentation for every *public* function of WHY2 below.
 
 ### Memory
 
-| Function                                     | Description                                    |
-| -------------------------------------------- | ---------------------------------------------- |
-| [`why2_malloc`](./core/memory/why2_malloc)   | *This functions doesn't have any description.* |
-| [`why2_calloc`](./core/memory/why2_calloc)   | *This functions doesn't have any description.* |
-| [`why2_realloc`](./core/memory/why2_realloc) | This doesn't preserve content of pointer!      |
+| Function                                       | Description                                                |
+| ---------------------------------------------- | ---------------------------------------------------------- |
+| [`why2_malloc`](./core/memory/why2_malloc)     | *This functions doesn't have any description.*             |
+| [`why2_calloc`](./core/memory/why2_calloc)     | *This functions doesn't have any description.*             |
+| [`why2_realloc`](./core/memory/why2_realloc)   | This doesn't preserve content of pointer!                  |
+| [`why2_recalloc`](./core/memory/why2_recalloc) | Same as why2_realloc but fills the pointer with null-terms |
 
 ## Logger
 
