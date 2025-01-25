@@ -96,6 +96,7 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_strdup`](./core/memory/why2_strdup)     | *This functions doesn't have any description.*             |
 | [`why2_fopen`](./core/memory/why2_fopen)       | *This functions doesn't have any description.*             |
 | [`why2_fdopen`](./core/memory/why2_fdopen)     | *This functions doesn't have any description.*             |
+| [`why2_opendir`](./core/memory/why2_opendir)   | *This functions doesn't have any description.*             |
 
 ## Logger
 
