@@ -72,6 +72,12 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_set_padding`](./core/flags/setters/why2_set_padding) | Set padding rate without rewriting input flags |
 | [`why2_reset_memory_identifier`](./core/flags/setters/why2_reset_memory_identifier) | *This functions doesn't have any description.* |
 
+### Linked-list
+
+| Function                                              | Description                         |
+| ----------------------------------------------------- | ----------------------------------- |
+| [`why2_list_push`](./core/llist/why2_list_push)       | Push element to list back           |
+
 ## Logger
 
 ## Chat
