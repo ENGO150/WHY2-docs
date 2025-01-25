@@ -90,6 +90,7 @@ You can find documentation for every *public* function of WHY2 below.
 | Function                                   | Description                                    |
 | ------------------------------------------ | ---------------------------------------------- |
 | [`why2_malloc`](./core/memory/why2_malloc) | *This functions doesn't have any description.* |
+| [`why2_calloc`](./core/memory/why2_calloc) | *This functions doesn't have any description.* |
 
 ## Logger
 
