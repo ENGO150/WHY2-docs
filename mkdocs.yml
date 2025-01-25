@@ -1,0 +1,67 @@
+# This is part of WHY2
+# Copyright (C) 2022 Václav Šmejkal
+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+site_name: WHY2 Documentation
+
+nav:
+  - Home: ./index.md
+  - Functions: ./functions/index.md
+
+repo_url: https://github.com/ENGO150/WHY2
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+    primary: deep purple
+    accent: indigo
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ENGO150
+    - icon: fontawesome/brands/discord
+      link: https://dsc.gg/endev
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/engo_150
+
+copyright: © 2022 Václav Šmejkal
