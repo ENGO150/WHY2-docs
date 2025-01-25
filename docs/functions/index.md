@@ -81,6 +81,7 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_list_remove`](./core/llist/why2_list_remove)           | Remove element                      |
 | [`why2_list_remove_at`](./core/llist/why2_list_remove_at)     | Remove element with index index     |
 | [`why2_list_remove_back`](./core/llist/why2_list_remove_back) | Remove last element                 |
+| [`why2_list_find`](./core/llist/why2_list_find)               | Find element in list                |
 
 ## Logger
 
