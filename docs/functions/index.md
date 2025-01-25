@@ -69,6 +69,7 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_set_flags`](./core/flags/setters/why2_set_flags) | *This functions doesn't have any description.* |
 | [`why2_set_encryption_operation`](./core/flags/setters/why2_set_encryption_operation) | *This functions doesn't have any description.* |
 | [`why2_set_memory_identifier`](./core/flags/setters/why2_set_memory_identifier) | *This functions doesn't have any description.* |
+| [`why2_set_padding`](./core/flags/setters/why2_set_padding) | Set padding rate without rewriting input flags |
 
 ## Logger
 
