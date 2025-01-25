@@ -56,6 +56,7 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_no_output`](./core/flags/getters/why2_no_output) | Same as why2_get_default_flags() but for why2_output_flags    |
 | [`why2_get_encryption_operation`](./core/flags/getters/why2_get_encryption_operation) | Returns functions which is used for encryption & decryption |
 | [`why2_get_flags_changed`](./core/flags/getters/why2_get_flags_changed) | *This functions doesn't have any description.* |
+| [`why2_get_padding_changed`](./core/flags/getters/why2_get_padding_changed) | *This functions doesn't have any description.* |
 
 ## Logger
 
