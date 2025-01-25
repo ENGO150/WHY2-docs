@@ -57,6 +57,7 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_get_encryption_operation`](./core/flags/getters/why2_get_encryption_operation) | Returns functions which is used for encryption & decryption |
 | [`why2_get_flags_changed`](./core/flags/getters/why2_get_flags_changed) | *This functions doesn't have any description.* |
 | [`why2_get_padding_changed`](./core/flags/getters/why2_get_padding_changed) | *This functions doesn't have any description.* |
+| [`why2_get_memory_identifier`](./core/flags/getters/why2_get_memory_identifier) | Returns string used in linked list (in memory.c) for identifying nodes when running garbage collector |
 
 ## Logger
 
