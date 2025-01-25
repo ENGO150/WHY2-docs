@@ -83,6 +83,7 @@ You can find documentation for every *public* function of WHY2 below.
 | [`why2_list_remove_back`](./core/llist/why2_list_remove_back) | Remove last element                 |
 | [`why2_list_find`](./core/llist/why2_list_find)               | Find element in list                |
 | [`why2_list_get_size`](./core/llist/why2_list_get_size)       | Get size                            |
+| [`why2_list_reverse`](./core/llist/why2_list_reverse)         | Reverses list                       |
 
 ## Logger
 
